@@ -35,6 +35,6 @@ IoT: Arduino, ESP32, Sensors, Bluetooth/WiFi integrations.
 Others: Git, Agile methodologies, UI/UX design basics.
 
 📫 Connect With Me
-💼 LinkedIn (Update with your actual link if available)
-✉️ Email: chinmaysahoo03@silicon.ac.in (Based on your profile; update as needed)
+💼 LinkedIn www.linkedin.com/in/chinmaya-sahoo-b41903307
+✉️ Email: chinmaysahoo03@gmail.com
 🌐 [Portfolio / Blog] (coming soon)
