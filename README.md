@@ -24,42 +24,7 @@ Exploring IoT projects with sensors and connectivity.
 Building innovative prototypes that combine AI with hardware.
 Participating in hackathons and open-source contributions.
 
-🚀 Projects
-🤖 GeminiAI-Integrate
 
-Kotlin-based Android app integrating Gemini AI for conversational features.
-Handles user queries with AI responses, including text generation and integration with app UI.
-Tools: Kotlin, Gemini API, Jetpack Compose.
-
-🧠 Multimodal GenAI Assistant
-
-A versatile AI assistant handling text, images, and multimodal inputs.
-Built with Jupyter Notebooks for prototyping and Kotlin for deployment.
-Features: Natural language processing, image analysis, and response generation.
-
-💳 PaymentApp
-
-Android payment application with UPI and secure transaction handling.
-Real-time processing, user authentication, and intuitive UI.
-Tools: Kotlin, Jetpack Compose, Firebase for backend.
-
-📄 RAG Document QA
-
-Retrieval-Augmented Generation system for querying documents with AI.
-Supports PDF/text inputs, semantic search, and accurate Q&A responses.
-Tools: Jupyter Notebooks, Python, relevant AI libraries.
-
-🎥 VIDEO STREAMING APP
-
-Kotlin-based app for video streaming with live feeds and user interactions.
-Includes features like playback controls, subscriptions, and real-time updates.
-Tools: Kotlin, ExoPlayer, Firebase.
-
-🤖 URABN (Urban AI or similar - assuming based on repo name)
-
-AI-driven project for urban innovations (e.g., smart city tools or navigation).
-Integrates Gen AI with Android for practical applications.
-Tools: Kotlin, AI models.
 
 🧠 Skills
 
